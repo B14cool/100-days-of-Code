@@ -16,3 +16,13 @@ Day 2: 04/20/22
 I installed different extensions on Visual Studio Code to work better in the course. Did not code anything today. But learned new ways on how to use Visual Studio to take advantage of the IDE and visualize the code better
 
 Thoughs: I spent too much time looking for a job today. Got to grab some motivation from nowhere
+
+Day 3: 04/21/22
+
+Only able to watch the videos of today's class. Started a new certification in FreeCodeCamp.com: Responsive Web Design. 
+
+Thoughts: Got interrupted several times so did not do very much 
+
+Day 4: 04/22/2
+
+:::
