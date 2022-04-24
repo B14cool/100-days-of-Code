@@ -25,4 +25,12 @@ Thoughts: Got interrupted several times so did not do very much
 
 Day 4: 04/22/2
 
-:::
+Freecodecamp: add image into a website using HTML and crating checkboxes
+
+Thoughts: not any. I little bit depressed looking for a job
+
+Day 5: 04/23/22
+
+Downloaded all the course resources from the Javascript Udemy course "JavaScript Moderno Guía Definitiva Construye +15 Proyectos" and tested varios sections of the code. 
+
+Thoughts: It is not the mountain we conquer, but ourselves
