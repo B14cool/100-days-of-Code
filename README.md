@@ -3,7 +3,7 @@ Log of my 100 days of code Challenge
 
 100 days of Coding 
 
-# <h2> Day 1 - 04/19/22 </h2>
+# Day 1 - 04/19/22
 
 Started the Udemy course "JavaScript Moderno Guía Definitiva Construye +15 Proyectos" (But there are really 20 projects).
 Downloaded the VisualStudio Code IDE and started to learn the syntax of Javascript programming language.
@@ -34,3 +34,13 @@ Thoughts: not any. I little bit depressed looking for a job
 Downloaded all the course resources from the Javascript Udemy course "JavaScript Moderno Guía Definitiva Construye +15 Proyectos" and tested varios sections of the code. 
 
 Thoughts: It is not the mountain we conquer, but ourselves
+
+# Day 6: 04/24/22
+
+Just watched some videos but did not have time to put it in practice. 
+
+# Day 7: 04/25/22
+
+Continue the "Responsive web design" path in #FreeCodeCamp to enhance and review my web development knowledge.
+
+Thoughs: I'm sending a lot of proposals via UpWork. A little bit sad when I think of my unemployment. 
