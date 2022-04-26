@@ -3,7 +3,7 @@ Log of my 100 days of code Challenge
 
 100 days of Coding 
 
-# Day 1 - 04/19/22
+<h1> Day 1 - 04/19/22 </h1>
 
 Started the Udemy course "JavaScript Moderno Guía Definitiva Construye +15 Proyectos" (But there are really 20 projects).
 Downloaded the VisualStudio Code IDE and started to learn the syntax of Javascript programming language.
